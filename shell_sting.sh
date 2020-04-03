@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# blaine xu 2020-04-03
 echo "shell string study"
 echo "---------------------------"
 echo "单引号里的任何字符都会原样输出，单引号字符串中的变量是无效的；
